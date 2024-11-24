@@ -1,5 +1,8 @@
 {
     "name": "roslikov888/test",
+    "license": "MIT",
+    "type": "project",
+    "description": "hexlet/test",
     "autoload": {
         "files": [
 	  "src/StringUtils.php"
@@ -10,5 +13,7 @@
             "name": "Roslik0v"
         }
     ],
-    "require": {}
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
 }
