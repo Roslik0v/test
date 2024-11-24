@@ -1,0 +1,14 @@
+{
+    "name": "roslikov888/test",
+    "autoload": {
+        "files": [
+	  "src/StringUtils.php"
+              ]
+    },
+    "authors": [
+        {
+            "name": "Roslik0v"
+        }
+    ],
+    "require": {}
+}
